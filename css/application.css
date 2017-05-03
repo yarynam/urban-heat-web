@@ -1,0 +1,217 @@
+html {
+  position: relative;
+  min-height: 100%; }
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 100%;
+  color: #383e47;
+  width: 100%;
+  /*footer height plus padding*/
+  margin-bottom: 200px; }
+
+a {
+  color: inherit;
+  text-decoration: none; }
+  a:link {
+    text-decoration: none; }
+  a:hover {
+    color: #FAA61A; }
+  a.dotted {
+    /*for links*/
+    color: #4b444d;
+    border-bottom: 2px dotted #cccccc; }
+
+h1 {
+  font-size: 3.5em;
+  line-height: 1.8em;
+  font-weight: bold; }
+
+h2 {
+  font-size: 2em;
+  line-height: 2em;
+  font-weight: bold; }
+
+h3 {
+  font-size: 1.8em;
+  line-height: 2.2em;
+  font-weight: normal; }
+
+p {
+  font-size: 1.6em;
+  line-height: 1.9em; }
+
+/* ======== HEADER ======== */
+.logo {
+  position: fixed;
+  float: left;
+  margin: 15px 0px 0px 15px;
+  z-index: 1000; }
+
+.social-icons {
+  position: fixed;
+  padding-top: 10px;
+  z-index: 1000; }
+
+.fa-twitter,
+.fa-facebook {
+  background-color: rgba(187, 189, 192, 0.9);
+  padding: 5px;
+  color: #5b5b5b;
+  float: right;
+  margin: 5px 10px 0px 0px;
+  cursor: pointer; }
+  .fa-twitter:hover,
+  .fa-facebook:hover {
+    color: #FAA61A; }
+
+/* ======== Footer ======== */
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 170px;
+  background: #1c2124 none repeat scroll 0 0;
+  text-align: left;
+  font-size: 14px;
+  padding: 0;
+  display: block; }
+
+#footer-wraper {
+  padding-top: 20px;
+  margin-left: 5%;
+  margin-left: 5%; }
+
+.links li {
+  color: #fff;
+  font-size: 0.7em; }
+  @media (max-width: 768px) {
+    .links li {
+      display: none; } }
+
+.copyright {
+  float: left;
+  font-size: 0.7em;
+  color: #fff; }
+  @media (max-width: 768px) {
+    .copyright {
+      font-size: 0.5em; } }
+  .copyright p {
+    padding-bottom: 0px; }
+
+.copying-info {
+  padding-top: 20px;
+  font-size: 0.7em;
+  line-height: 15px;
+  color: #888c91; }
+  @media (max-width: 768px) {
+    .copying-info {
+      padding-top: 10px;
+      font-size: 0.5em; } }
+  @media (max-width: 480px) {
+    .copying-info {
+      padding-top: 10px; } }
+
+.support-site:link,
+.support-site:visited {
+  color: #FAA61A; }
+
+.cover {
+  margin-top: 5%;
+  text-align: center; }
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 2.5em; } }
+
+.subtitle {
+  font-size: 1.7em;
+  line-height: 1.5em;
+  font-weight: 300;
+  color: #383e47; }
+
+.credits {
+  color: #383e47;
+  font-size: 1.3em;
+  line-height: 1.5em; }
+  .credits span {
+    font-weight: bold; }
+  .credits.date {
+    margin-top: 1em;
+    font-size: 1.1em;
+    font-weight: 300; }
+
+.new-section p {
+  margin-bottom: 2em; }
+
+p.first {
+  margin-top: 3.5em; }
+  p.first::first-letter {
+    float: left;
+    margin: 0 20px 0 0;
+    font-size: 52px;
+    font-weight: bold;
+    padding: 10px;
+    line-height: 1; }
+p span {
+  background: rgba(123, 152, 173, 0.3);
+  padding: 1px; }
+p span.itallic {
+  background: none;
+  font-style: italic; }
+
+.quote {
+  margin-top: 1em;
+  margin-bottom: 5em;
+  font-size: 2.3em;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #211A23; }
+  .quote::before {
+    font-family: Arial;
+    content: "\201C";
+    font-size: 7em;
+    position: relative;
+    left: 0em;
+    top: 0.5em; }
+    @media (max-width: 480px) {
+      .quote::before {
+        font-size: 7em; } }
+
+.disclaimer {
+  font-size: 1.3em; }
+
+h2.disclaimer {
+  margin-top: 10em;
+  font-size: 2em;
+  font-weight: 600;
+  border-top: 3px solid #383e47;
+  padding-top: 0.5em;
+  width: 40%; }
+  @media (max-width: 480px) {
+    h2.disclaimer {
+      margin-top: 5em;
+      width: 100%; } }
+
+.new-section {
+  margin-top: 5%; }
+
+.map {
+  margin-top: 3.5em;
+  margin-bottom: 3.5em; }
+
+.mobile {
+  display: none; }
+  @media (max-width: 768px) {
+    .mobile {
+      display: block; } }
+
+.desktop {
+  display: block; }
+  @media (max-width: 768px) {
+    .desktop {
+      display: none; } }
+
+.read-more {
+  margin-bottom: 15px; }
+
+/*# sourceMappingURL=application.css.map */
