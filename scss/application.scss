@@ -79,8 +79,11 @@ p  {
 
 
 .quote {
-  font-size: 2.5em;
+  margin-top:1em;
+  margin-bottom:5em;
+  font-size: 2.3em;
   font-family: 'Open Sans Condensed', sans-serif;
+  color: #211A23;
   &::before {
     font-family: Arial;
     content: "\201C";
