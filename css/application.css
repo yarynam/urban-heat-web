@@ -24,7 +24,7 @@ a {
 
 h1 {
   font-size: 3.5em;
-  line-height: 1.8em;
+  line-height: 1.5em;
   font-weight: bold; }
 
 h2 {
@@ -118,7 +118,12 @@ p {
 
 .cover {
   margin-top: 5%;
+  margin-bottom: 5%;
   text-align: center; }
+  @media (max-width: 480px) {
+    .cover {
+      margin-top: 15%;
+      margin-bottom: 25%; } }
 
 @media (max-width: 480px) {
   h1 {
@@ -133,7 +138,8 @@ p {
 .credits {
   color: #383e47;
   font-size: 1.3em;
-  line-height: 1.5em; }
+  line-height: 1.7em;
+  font-weight: 300; }
   .credits span {
     font-weight: bold; }
   .credits.date {
@@ -154,18 +160,15 @@ p.first {
     padding: 10px;
     line-height: 1; }
 p span {
-  background: rgba(123, 152, 173, 0.3);
+  background: rgba(195, 232, 224, 0.5);
   padding: 1px; }
 p span.itallic {
   background: none;
   font-style: italic; }
 
 .quote {
-  margin-top: 1em;
-  margin-bottom: 5em;
-  font-size: 2.3em;
-  font-family: 'Open Sans Condensed', sans-serif;
-  color: #211A23; }
+  font-size: 2.5em;
+  font-family: 'Open Sans Condensed', sans-serif; }
   .quote::before {
     font-family: Arial;
     content: "\201C";
@@ -181,7 +184,7 @@ p span.itallic {
   font-size: 1.3em; }
 
 h2.disclaimer {
-  margin-top: 10em;
+  margin-top: 5em;
   font-size: 2em;
   font-weight: 600;
   border-top: 3px solid #383e47;
