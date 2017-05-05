@@ -74,6 +74,14 @@ p  {
       background: none;
       font-style: italic;
     }
+    &.parallax-note {
+    @include text(1.2em, 1.7em, normal, #969696);
+    color:#fff;
+    padding:20px;
+    & span {
+      background: rgba(53,151,143,1);
+    }
+    }
 }
 
 
@@ -140,3 +148,44 @@ p  {
 .read-more {
   margin-bottom: 15px;
 }
+
+
+
+
+.parallax {
+  [class*="bg-"] {
+    position : relative;
+
+    height : 100vh;
+    background-attachment : fixed;
+    background-position   : top center;
+    background-size       : cover;
+
+    @media #{$brk-narrow} {
+      background-attachment : scroll;
+      margin-top:5em;
+    }
+    
+    &:nth-child( 2n ) {
+      box-shadow : inset 0 0 1em #111; 
+    }
+  }
+  
+  .bg-chicago {
+    background-image : url(../img/chicago-green-roof.jpg);
+  }
+  .bg-sf {
+    background-image : url(../img/sf-green-roof.jpg); 
+  }
+  .bg-nyc {
+    background-image : url(../img/nyc-green-roof.jpg); 
+  }
+  .bg-singapore {
+    background-image : url(../img/singapore-green-roof.jpg); 
+  }
+  .bg-kyiv {
+    background-image : url(../img/kyiv-green-roof.jpg);
+  }
+
+}
+
