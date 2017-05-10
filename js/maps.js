@@ -581,7 +581,7 @@ var lvivMaps = `<div id='g-lviv-box' class='ai2html'>
 			<div id='g-ai0-8' class='g-Layer_1 g-aiAbs' style='top:58.1633%;left:0.6822%;width:11.0781%;'>
 				<div class='g-aiPstyle3'>Чи не єдина зелена пляма в центрі міста &mdash; парк ім. І. Франка</div>
 			</div>
-			<div id='g-ai0-9' class='g-Layer_1 g-aiAbs' style='top:59.0918%;left:55.1409%;width:6.5912%;'>
+			<div id='g-ai0-9' class='g-Layer_1 g-aiAbs' style='top:58.0918%;left:55.1409%;width:6.5912%;'>
 				<p class='g-aiPstyle3'>Епіцентр спеки в районі Левандівки</p>
 			</div>
 			<div id='g-ai0-10' class='g-Layer_1 g-aiAbs' style='top:72.6531%;left:55.0483%;width:11.7687%;'>
