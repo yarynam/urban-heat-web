@@ -112,7 +112,7 @@ var kyivMaps = `<div id='g-kyiv-box' class='ai2html'>
 				<p class='g-aiPstyle3'>NDVI (Нормалізований відносний індекс рослинності) &mdash; показник кількості активної фотосинтетичної  біомаси </p>
 			</div>
 			<div id='g-ai0-8' class='g-Layer_1 g-aiAbs' style='top:72.7265%;left:88.0086%;width:9.82%;'>
-				<p class='g-aiPstyle3'>Епіцентр спеки на Позняках, Березняках і Вознесенці</p>
+				<p class='g-aiPstyle3'>Епіцентр спеки на Позняках, Березняках і Воскресенці</p>
 			</div>
 			<div id='g-ai0-9' class='g-Layer_1 g-aiAbs' style='top:77.9966%;left:10.6792%;width:8.0503%;'>
 				<p class='g-aiPstyle4'>Індекс NDVI</p>
@@ -570,7 +570,8 @@ var lvivMaps = `<div id='g-lviv-box' class='ai2html'>
 				<div class='g-aiPstyle2'>100 м на піксель)</div>
 			</div>
 			<div id='g-ai0-6' class='g-Layer_1 g-aiAbs' style='top:31.0204%;left:88.5908%;width:10.4592%;'>
-				<div class='g-aiPstyle3'>Епіцентр спеки у центральній частині міста та на Замарстинові</div>
+				<div class='g-aiPstyle3'>Епіцентр спеки</div>
+				<div class='g-aiPstyle3'>у центральній частині міста та на Замарстинові</div>
 			</div>
 			<div id='g-ai0-7' class='g-Layer_1 g-aiAbs' style='top:37.1429%;left:54.9418%;width:10.4592%;'>
 				<div class='g-aiPstyle3'>Індустріальний</div>
@@ -580,8 +581,8 @@ var lvivMaps = `<div id='g-lviv-box' class='ai2html'>
 			<div id='g-ai0-8' class='g-Layer_1 g-aiAbs' style='top:58.1633%;left:0.6822%;width:11.0781%;'>
 				<div class='g-aiPstyle3'>Чи не єдина зелена пляма в центрі міста &mdash; парк ім. І. Франка</div>
 			</div>
-			<div id='g-ai0-9' class='g-Layer_1 g-aiAbs' style='top:59.5918%;left:55.1409%;width:6.5912%;'>
-				<p class='g-aiPstyle3'>Епіцентр спеки на Левандівці</p>
+			<div id='g-ai0-9' class='g-Layer_1 g-aiAbs' style='top:59.0918%;left:55.1409%;width:6.5912%;'>
+				<p class='g-aiPstyle3'>Епіцентр спеки в районі Левандівки</p>
 			</div>
 			<div id='g-ai0-10' class='g-Layer_1 g-aiAbs' style='top:72.6531%;left:55.0483%;width:11.7687%;'>
 				<p class='g-aiPstyle4'>Градуси Цельсія</p>
