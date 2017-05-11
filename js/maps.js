@@ -422,9 +422,6 @@ var dniproMaps = `<div id='g-dnipro-box' class='ai2html'>
 			<div id='g-ai0-6' class='g-Layer_1 g-aiAbs' style='top:24.6942%;left:88.4203%;width:10.4591%;'>
 				<div class='g-aiPstyle3'>Епіцентр спеки в Індустріальному районі</div>
 			</div>
-			<div id='g-ai0-7' class='g-Layer_1 g-aiAbs' style='top:33.6173%;left:51.3755%;width:10.4591%;'>
-				<div class='g-aiPstyle3'>Епіцентр спеки в центральній частині міста</div>
-			</div>
 			<div id='g-ai0-8' class='g-Layer_1 g-aiAbs' style='top:73.6676%;left:55.3389%;width:11.7687%;'>
 				<p class='g-aiPstyle4'>Градуси Цельсія</p>
 			</div>
@@ -917,7 +914,7 @@ var kyivMapsMob = `<div id='g-kyiv-mob-box' class='ai2html'>
 				<p class='g-aiPstyle3'>Епіцентр спеки на Оболоні</p>
 			</div>
 			<div id='g-ai0-16' class='g-Layer_1 g-aiAbs' style='top:86.7272%;left:71.9967%;width:25.3789%;'>
-				<p class='g-aiPstyle3'>Епіцентр спеки на Позняках, Березняках і Вознесенці</p>
+				<p class='g-aiPstyle3'>Епіцентр спеки на Позняках, Березняках і Воскресенці</p>
 			</div>
 			<div id='g-ai0-17' class='g-Layer_1 g-aiAbs' style='top:87.8667%;left:8.2243%;width:28.7757%;'>
 				<p class='g-aiPstyle4'>Градуси Цельсія</p>
@@ -1282,9 +1279,6 @@ var dniproMapsMob = `<div id='g-dnipro-mob-box' class='ai2html'>
 			<div id='g-ai0-14' class='g-ai2html-settings g-aiAbs' style='top:62.5255%;left:69.5928%;width:29.9661%;'>
 				<p class='g-aiPstyle6'>Епіцентр спеки в Індустріальному районі</p>
 			</div>
-			<div id='g-ai0-15' class='g-ai2html-settings g-aiAbs' style='top:65.1548%;left:2.2484%;width:21.7425%;'>
-				<p class='g-aiPstyle6'>Епіцентр спеки в центральній частині міста</p>
-			</div>
 			<div id='g-ai0-16' class='g-ai2html-settings g-aiAbs' style='top:86.5891%;left:4.6426%;width:26.8327%;'>
 				<p class='g-aiPstyle3'>Градуси Цельсія</p>
 			</div>
@@ -1468,8 +1462,8 @@ var lvivMapsMob = `<div id='g-lviv-mob-box' class='ai2html'>
 				<p class='g-aiPstyle3'>Епіцентр спеки </p>
 				<p class='g-aiPstyle3'>у центральній частині міста та на Замарстинові</p>
 			</div>
-			<div id='g-ai0-16' class='g-ai2html-settings g-aiAbs' style='top:85.0536%;left:2.2542%;width:27.1584%;'>
-				<p class='g-aiPstyle3'>Епіцентр спеки на Левандівці</p>
+			<div id='g-ai0-16' class='g-ai2html-settings g-aiAbs' style='top:84.0536%;left:2.2542%;width:27.1584%;'>
+				<p class='g-aiPstyle3'>Епіцентр спеки в районі Левандівки</p>
 			</div>
 			<div id='g-ai0-17' class='g-Layer_1 g-aiAbs' style='top:89.3585%;left:5.0052%;width:26.8327%;'>
 				<p class='g-aiPstyle4'>Градуси Цельсія</p>
