@@ -264,7 +264,7 @@ var odesaMaps = `<div id='g-odesa-box' class='ai2html'>
 				<div class='g-aiPstyle2'>(середнє значення за 20 липня та 5 серпня 2015 року, 100 м на піксель)</div>
 			</div>
 			<div id='g-ai0-6' class='g-Layer_1 g-aiAbs' style='top:23.4142%;left:69.6872%;width:10.2769%;'>
-				<p class='g-aiPstyle3'>Епіцентр спеки у Суворівському районі</p>
+				<p class='g-aiPstyle3'>Епіцентр спеки у Суворовському районі</p>
 			</div>
 			<div id='g-ai0-7' class='g-Layer_1 g-aiAbs' style='top:39.839%;left:5.1294%;width:11.5762%;'>
 				<p class='g-aiPstyle3'>Преображенський парк в центрі міста</p>
@@ -725,7 +725,7 @@ var kharkivMaps = `<div id='g-kharkiv-box' class='ai2html'>
 				<div class='g-aiPstyle2'>100 м на піксель)</div>
 			</div>
 			<div id='g-ai0-6' class='g-Layer_1 g-aiAbs' style='top:24.16%;left:55.6603%;width:8.8435%;'>
-				<p class='g-aiPstyle3'>Епіцентр спеки на Горчарвці та Москалівці</p>
+				<p class='g-aiPstyle3'>Епіцентр спеки на Горчарівці та Москалівці</p>
 			</div>
 			<div id='g-ai0-7' class='g-Layer_1 g-aiAbs' style='top:31.4642%;left:35.9083%;width:11.1701%;'>
 				<p class='g-aiPstyle3'>Острівець прохолоди в центрі міста &mdash; парк Шевченка</p>
@@ -1093,7 +1093,7 @@ var odesaMapsMob = `<div id='g-odesa-mob-box' class='ai2html'>
 				<p class='g-aiPstyle2'>(середнє значення 20 липня та 5 серпня 2015 року, 100 м на піксель)</p>
 			</div>
 			<div id='g-ai0-15' class='g-Layer_1 g-aiAbs' style='top:64.596%;left:18.1662%;width:26.959%;'>
-				<p class='g-aiPstyle3'>Епіцентр спеки у Суворівському районі</p>
+				<p class='g-aiPstyle3'>Епіцентр спеки у Суворовському районі</p>
 			</div>
 			<div id='g-ai0-16' class='g-Layer_1 g-aiAbs' style='top:72.3704%;left:3.8817%;width:27.764%;'>
 				<p class='g-aiPstyle3'>Склади поруч </p>
@@ -1643,7 +1643,7 @@ var kharkivMapsMob = `<div id='g-kharkiv-mob-box' class='ai2html'>
 				<p class='g-aiPstyle2'>100 м на піксель)</p>
 			</div>
 			<div id='g-ai0-15' class='g-ai2html-settings g-aiAbs' style='top:60.0118%;left:2.0378%;width:23.3696%;'>
-				<p class='g-aiPstyle3'>Епіцентр спеки на Горчарвці та Москалівці</p>
+				<p class='g-aiPstyle3'>Епіцентр спеки на Горчарівці та Москалівці</p>
 			</div>
 			<div id='g-ai0-16' class='g-ai2html-settings g-aiAbs' style='top:72.6272%;left:73.932%;width:25.3239%;'>
 				<p class='g-aiPstyle3'>Епіцентр спеки </p>
