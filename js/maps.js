@@ -89,7 +89,7 @@ var kyivMaps = `<div id='g-kyiv-box' class='ai2html'>
 				src='img/kyiv-Artboard_1.png'
 				/>
 			<div id='g-ai0-1' class='g-Layer_1 g-aiAbs' style='top:3.162%;left:78.8177%;width:50.5819%;margin-left:-25.291%;'>
-				<p class='g-aiPstyle0'>Температура поверхні, С&deg;</p>
+				<p class='g-aiPstyle0'>Температура поверхні, °C;</p>
 			</div>
 			<div id='g-ai0-2' class='g-Layer_1 g-aiAbs' style='top:3.162%;left:23.7297%;width:50.5819%;margin-left:-25.2909%;'>
 				<p class='g-aiPstyle0'>Індекс рослинності (NDVI)</p>
@@ -249,7 +249,7 @@ var odesaMaps = `<div id='g-odesa-box' class='ai2html'>
 				src='img/odesa-Artboard_1.png'
 				/>
 			<div id='g-ai0-1' class='g-Layer_1 g-aiAbs' style='top:3.8441%;left:79.4378%;width:35.1579%;margin-left:-17.5789%;'>
-				<p class='g-aiPstyle0'>Температура поверхні, С&deg;</p>
+				<p class='g-aiPstyle0'>Температура поверхні, °C;</p>
 			</div>
 			<div id='g-ai0-2' class='g-Layer_1 g-aiAbs' style='top:4.0188%;left:25.323%;width:36.4402%;margin-left:-18.2201%;'>
 				<p class='g-aiPstyle0'>Індекс рослинності (NDVI)</p>
@@ -403,7 +403,7 @@ var dniproMaps = `<div id='g-dnipro-box' class='ai2html'>
 				src='img/dnipro-Artboard_1.png'
 				/>
 			<div id='g-ai0-1' class='g-Layer_1 g-aiAbs' style='top:1.6601%;left:78.4096%;width:50.5818%;margin-left:-25.2909%;'>
-				<p class='g-aiPstyle0'>Температура поверхні, С&deg;</p>
+				<p class='g-aiPstyle0'>Температура поверхні, °C;</p>
 			</div>
 			<div id='g-ai0-2' class='g-Layer_1 g-aiAbs' style='top:1.6601%;left:24.2059%;width:50.5818%;margin-left:-25.2909%;'>
 				<p class='g-aiPstyle0'>Індекс рослинності (NDVI)</p>
@@ -550,7 +550,7 @@ var lvivMaps = `<div id='g-lviv-box' class='ai2html'>
 				src='img/lviv-Artboard_1.png'
 				/>
 			<div id='g-ai0-1' class='g-Layer_1 g-aiAbs' style='top:1.6327%;left:77.4244%;width:50.5819%;margin-left:-25.291%;'>
-				<p class='g-aiPstyle0'>Температура поверхні, С&deg;</p>
+				<p class='g-aiPstyle0'>Температура поверхні, °C;</p>
 			</div>
 			<div id='g-ai0-2' class='g-Layer_1 g-aiAbs' style='top:1.8367%;left:24.4417%;width:50.5818%;margin-left:-25.2909%;'>
 				<p class='g-aiPstyle0'>Індекс рослинності (NDVI)</p>
@@ -708,7 +708,7 @@ var kharkivMaps = `<div id='g-kharkiv-box' class='ai2html'>
 				src='img/kharkiv-Artboard_1.png'
 				/>
 			<div id='g-ai0-1' class='g-Layer_1 g-aiAbs' style='top:1.6856%;left:77.0603%;width:50.5819%;margin-left:-25.291%;'>
-				<p class='g-aiPstyle0'>Температура поверхні, С&deg;</p>
+				<p class='g-aiPstyle0'>Температура поверхні, °C;</p>
 			</div>
 			<div id='g-ai0-2' class='g-Layer_1 g-aiAbs' style='top:1.6856%;left:24.3933%;width:50.5818%;margin-left:-25.2909%;'>
 				<p class='g-aiPstyle0'>Індекс рослинності (NDVI)</p>
@@ -904,7 +904,7 @@ var kyivMapsMob = `<div id='g-kyiv-mob-box' class='ai2html'>
 				<p>&nbsp;</p>
 			</div>
 			<div id='g-ai0-13' class='g-Layer_1 g-aiAbs' style='top:52.796%;left:49%;width:88%;margin-left:-44%;'>
-				<p class='g-aiPstyle1'>Температура поверхні, С&deg;</p>
+				<p class='g-aiPstyle1'>Температура поверхні, °C;</p>
 			</div>
 			<div id='g-ai0-14' class='g-Layer_1 g-aiAbs' style='top:55.708%;left:49.0578%;width:90.3271%;margin-left:-45.1636%;'>
 				<p class='g-aiPstyle2'>(середнє значення за 13 та 29 липня 2016 року,</p>
@@ -1087,7 +1087,7 @@ var odesaMapsMob = `<div id='g-odesa-mob-box' class='ai2html'>
 				<p>&nbsp;</p>
 			</div>
 			<div id='g-ai0-13' class='g-Layer_1 g-aiAbs' style='top:54.3064%;left:48.4465%;width:80.1603%;margin-left:-40.0802%;'>
-				<p class='g-aiPstyle1'>Температура поверхні, С&deg;</p>
+				<p class='g-aiPstyle1'>Температура поверхні, °C;</p>
 			</div>
 			<div id='g-ai0-14' class='g-Layer_1 g-aiAbs' style='top:56.7073%;left:50.5735%;width:84.4142%;margin-left:-42.2071%;'>
 				<p class='g-aiPstyle2'>(середнє значення 20 липня та 5 серпня 2015 року, 100 м на піксель)</p>
@@ -1270,7 +1270,7 @@ var dniproMapsMob = `<div id='g-dnipro-mob-box' class='ai2html'>
 				<p>&nbsp;</p>
 			</div>
 			<div id='g-ai0-12' class='g-ai2html-settings g-aiAbs' style='top:54.0827%;left:50.4979%;width:100.9958%;margin-left:-50.4979%;'>
-				<p class='g-aiPstyle1'>Температура поверхні, С&deg;</p>
+				<p class='g-aiPstyle1'>Температура поверхні, °C;</p>
 			</div>
 			<div id='g-ai0-13' class='g-ai2html-settings g-aiAbs' style='top:57.2056%;left:49.1731%;width:89.0366%;margin-left:-44.5183%;'>
 				<p class='g-aiPstyle2'>(середнє значення за 7 та 23 серпня 2015 року,</p>
@@ -1452,7 +1452,7 @@ var lvivMapsMob = `<div id='g-lviv-mob-box' class='ai2html'>
 				<p>&nbsp;</p>
 			</div>
 			<div id='g-ai0-13' class='g-ai2html-settings g-aiAbs' style='top:53.4846%;left:49.227%;width:115.3267%;margin-left:-57.6633%;'>
-				<p class='g-aiPstyle1'>Температура поверхні, С&deg;</p>
+				<p class='g-aiPstyle1'>Температура поверхні, °C;</p>
 			</div>
 			<div id='g-ai0-14' class='g-ai2html-settings g-aiAbs' style='top:56.3545%;left:49.6416%;width:99.2832%;margin-left:-49.6416%;'>
 				<p class='g-aiPstyle2'>(середнє значення за 8 та 24 серпня 2015 року,</p>
@@ -1636,7 +1636,7 @@ var kharkivMapsMob = `<div id='g-kharkiv-mob-box' class='ai2html'>
 				<p>&nbsp;</p>
 			</div>
 			<div id='g-ai0-13' class='g-ai2html-settings g-aiAbs' style='top:53.5272%;left:50.2946%;width:100.5892%;margin-left:-50.2946%;'>
-				<p class='g-aiPstyle1'>Температура поверхні, С&deg;</p>
+				<p class='g-aiPstyle1'>Температура поверхні, °C;</p>
 			</div>
 			<div id='g-ai0-14' class='g-ai2html-settings g-aiAbs' style='top:56.2389%;left:50.1643%;width:100.5724%;margin-left:-50.2862%;'>
 				<p class='g-aiPstyle2'>(середнє значення за 4 червня та 6 липня 2015 року,</p>
