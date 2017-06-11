@@ -26,11 +26,29 @@ h1 {
   font-size: 3.5em;
   line-height: 1.5em;
   font-weight: bold; }
+  @media (max-width: 1920px) {
+    h1 {
+      font-size: 4.5em; } }
+  @media (max-width: 1440px) {
+    h1 {
+      font-size: 3.5em; } }
+  @media (max-width: 480px) {
+    h1 {
+      font-size: 2.5em; } }
 
 h2 {
   font-size: 2em;
   line-height: 2em;
   font-weight: bold; }
+  @media (max-width: 1920px) {
+    h2 {
+      font-size: 2.5em; } }
+  @media (max-width: 1440px) {
+    h2 {
+      font-size: 2em; } }
+  @media (max-width: 480px) {
+    h2 {
+      font-size: 1.8em; } }
 
 h3 {
   font-size: 1.8em;
@@ -40,6 +58,15 @@ h3 {
 p {
   font-size: 1.6em;
   line-height: 1.9em; }
+  @media (max-width: 1920px) {
+    p {
+      font-size: 2em; } }
+  @media (max-width: 1440px) {
+    p {
+      font-size: 1.6em; } }
+  @media (max-width: 480px) {
+    p {
+      font-size: 1.5em; } }
 
 /* ======== HEADER ======== */
 .logo {
@@ -85,7 +112,7 @@ p {
 .links li {
   color: #fff;
   font-size: 0.7em; }
-  @media (max-width: 768px) {
+  @media (max-width: 1024px) {
     .links li {
       display: none; } }
 
@@ -93,7 +120,7 @@ p {
   float: left;
   font-size: 0.7em;
   color: #fff; }
-  @media (max-width: 768px) {
+  @media (max-width: 1024px) {
     .copyright {
       font-size: 0.5em; } }
   .copyright p {
@@ -104,7 +131,7 @@ p {
   font-size: 0.7em;
   line-height: 15px;
   color: #888c91; }
-  @media (max-width: 768px) {
+  @media (max-width: 1024px) {
     .copying-info {
       padding-top: 10px;
       font-size: 0.5em; } }
@@ -125,19 +152,23 @@ p {
       margin-top: 15%;
       margin-bottom: 25%; } }
 
-@media (max-width: 480px) {
-  h1 {
-    font-size: 2.5em; } }
-
 .subtitle {
   font-size: 1.7em;
   line-height: 1.5em;
   font-weight: 300;
   color: #383e47; }
+  @media (max-width: 1920px) {
+    .subtitle {
+      font-size: 2.1em; } }
+  @media (max-width: 1440px) {
+    .subtitle {
+      font-size: 1.7em; } }
+  @media (max-width: 480px) {
+    .subtitle {
+      font-size: 1.6em; } }
 
 .credits {
   color: #383e47;
-  font-size: 1.3em;
   line-height: 1.7em;
   font-weight: 300; }
   .credits span {
@@ -146,6 +177,15 @@ p {
     margin-top: 1em;
     font-size: 1.1em;
     font-weight: 300; }
+  @media (max-width: 1920px) {
+    .credits {
+      font-size: 1.7em; } }
+  @media (max-width: 1440px) {
+    .credits {
+      font-size: 1.3em; } }
+  @media (max-width: 480px) {
+    .credits {
+      font-size: 1.3em; } }
 
 .new-section p {
   margin-bottom: 2em; }
@@ -216,13 +256,13 @@ h2.disclaimer {
 
 .mobile {
   display: none; }
-  @media (max-width: 768px) {
+  @media (max-width: 1024px) {
     .mobile {
       display: block; } }
 
 .desktop {
   display: block; }
-  @media (max-width: 768px) {
+  @media (max-width: 1024px) {
     .desktop {
       display: none; } }
 
@@ -235,12 +275,10 @@ h2.disclaimer {
   background-attachment: fixed;
   background-position: top center;
   background-size: cover; }
-  @media (max-width: 768px) {
+  @media (max-width: 1024px) {
     .parallax [class*="bg-"] {
       background-attachment: scroll;
       margin-top: 5em; } }
-  .parallax [class*="bg-"]:nth-child(2n) {
-    box-shadow: inset 0 0 1em #111; }
 .parallax .bg-chicago {
   background-image: url(../img/chicago-green-roof.jpg); }
 .parallax .bg-sf {

@@ -15,6 +15,7 @@ var kyivMaps = `<div id='g-kyiv-box' class='ai2html'>
 			#g-kyiv-Artboard_1{
 				position:relative;
 				overflow:hidden;
+				width:950px;
 			}
 			.g-aiAbs{
 				position:absolute;
